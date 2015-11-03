@@ -220,7 +220,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
 	public void onResume() {
 		Log.i(TAG, "called onResume");
 		super.onResume();
-		OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION_2_4_9, this,
+		OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION_2_4_9 , this,
 				mLoaderCallback);
 	}
 
