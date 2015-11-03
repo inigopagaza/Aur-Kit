@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\exploded-aar\Aur-Kit\openCVLibrary249\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="400a3ad242e84705c63acf45ba77fbdc6b079386">
-        <dex dex="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\pre-dexed\debug\classes-c5972e3dde3409a39c7a2055bfeaaff7d47dca70.jar" />
-    </item>
-    <item
         jar="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\libs\core-2.3.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
         <dex dex="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\pre-dexed\debug\core-2.3.0-74e503238e83047cfa422d9bf9a751bb057cd917.jar" />
+    </item>
+    <item
+        jar="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\exploded-aar\Aur-Kit\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4be5fb98ddc1a62f455f3362212d00aa9ac5f519">
+        <dex dex="C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\pre-dexed\debug\classes-e06cd24b2d4eea566fb55008cab4058947e695fc.jar" />
     </item>
 
 </items>
