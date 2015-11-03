@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_floor">
+        <item>Piso 0</item>
+        <item>1º Piso</item>
+        <item>2º Piso</item>
+        <item>3º Piso</item>
+        <!--  
+        <item>4º Piso</item>
+        <item>5º Piso</item>
+        -->
+    </string-array>
+</resources>

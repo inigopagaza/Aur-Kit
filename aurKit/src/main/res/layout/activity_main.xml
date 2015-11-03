@@ -1,0 +1,58 @@
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+	    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+	    android:id="@+id/viewFlipper"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+	    android:contentDescription="@string/action_settings"
+	    tools:context=".MainActivity" 
+	    android:orientation="horizontal" >
+
+		<org.opencv.android.JavaCameraView
+		    android:id="@+id/main_view"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    opencv:camera_id="any" />
+
+		<ImageView
+		    android:id="@+id/direction"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:layout_gravity="center"
+		    android:contentDescription="@string/dir"/>
+
+		<Button
+		    android:id="@+id/button_view"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:drawableLeft="@drawable/mapa_icon"
+		    android:text="@string/button_map"
+		    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+	</FrameLayout>
+
+	<FrameLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" >
+	    
+	    <ImageView 
+		    android:id="@+id/map_view"
+		    android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+		    android:scaleType="fitCenter" 
+		    android:contentDescription="@string/map"/>
+	    
+	    <Button
+		    android:id="@+id/button_view_1"
+		    android:text="@string/button_back"
+		    android:textAppearance="?android:attr/textAppearanceLarge"
+	   		android:drawableLeft="@drawable/atras_icon"
+	   		android:layout_width="wrap_content"
+	   		android:layout_height="wrap_content" />
+
+	</FrameLayout>
+</ViewFlipper>

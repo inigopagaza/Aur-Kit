@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pfc:info xmlns:pfc="Proyecto Fin de Carrera">
+	<pfc:class0>
+		<pfc:class class= "001" qr= "008" orientation= "180"/>
+		<pfc:class class= "002" qr= "008" orientation= "180"/>
+		<pfc:class class= "003" qr= "008" orientation= "180"/>
+		<pfc:class class= "005" qr= "006" orientation= "180"/>
+		<pfc:class class= "006" qr= "005" orientation= "180"/>
+		<pfc:class class= "007" qr= "005" orientation= "180"/>
+		<pfc:class class= "008" qr= "005" orientation= "180"/>
+		<pfc:class class= "009" qr= "004" orientation= "180"/>
+		<pfc:class class= "010" qr= "004" orientation= "180"/>
+		<pfc:class class= "011" qr= "002" orientation= "180"/>
+		<pfc:class class= "012" qr= "002" orientation= "270"/>
+		<pfc:class class= "013" qr= "000" orientation= "270"/>
+		<pfc:class class= "014" qr= "000" orientation= "270"/>
+		<pfc:class class= "019" qr= "002" orientation= "0"/>
+		<pfc:class class= "020" qr= "004" orientation= "0"/>
+		<pfc:class class= "021" qr= "004" orientation= "0"/>
+		<pfc:class class= "024" qr= "006" orientation= "0"/>
+	</pfc:class0>
+	<pfc:class1>
+		<pfc:class class= "101" qr= "107" orientation= "180"/>
+		<pfc:class class= "102" qr= "107" orientation= "180"/>
+		<pfc:class class= "103" qr= "105" orientation= "180"/>
+		<pfc:class class= "104" qr= "104" orientation= "180"/>
+		<pfc:class class= "105" qr= "103" orientation= "180"/>
+		<pfc:class class= "106" qr= "103" orientation= "180"/>
+		<pfc:class class= "112" qr= "103" orientation= "0"/>
+		<pfc:class class= "113" qr= "103" orientation= "0"/>
+		<pfc:class class= "114" qr= "104" orientation= "0"/>
+		<pfc:class class= "115" qr= "107" orientation= "0"/>
+		<pfc:class class= "Cafeteria" qr= "108" orientation= "0"/>
+	</pfc:class1>
+	<pfc:class2>
+		<pfc:class class= "201" qr= "207" orientation= "180"/>
+		<pfc:class class= "202" qr= "207" orientation= "180"/>
+		<pfc:class class= "203" qr= "204" orientation= "180"/>
+		<pfc:class class= "204" qr= "203" orientation= "180"/>
+		<pfc:class class= "205" qr= "202" orientation= "180"/>
+		<pfc:class class= "212" qr= "203" orientation= "0"/>
+		<pfc:class class= "213" qr= "204" orientation= "0"/>
+		<pfc:class class= "214" qr= "207" orientation= "0"/>
+		<pfc:class class= "215" qr= "209" orientation= "270"/>
+		<pfc:class class= "216" qr= "210" orientation= "270"/>
+		<pfc:class class= "217" qr= "210" orientation= "90"/>
+		<pfc:class class= "218" qr= "209" orientation= "90"/>
+		<pfc:class class= "219" qr= "209" orientation= "90"/>
+		<pfc:class class= "Laboratorio Mobility" qr= "200" orientation= "270"/>
+		<pfc:class class= "e-Life" qr= "201" orientation= "90"/>
+		<pfc:class class= "Sala de Actos" qr= "202" orientation= "0"/>
+		<pfc:class class= "Bedeles" qr= "205" orientation= "0"/>
+	</pfc:class2>
+	<pfc:class3>
+		<pfc:class class= "301" qr= "308" orientation= "180"/>
+		<pfc:class class= "302" qr= "307" orientation= "180"/>
+		<pfc:class class= "303" qr= "306" orientation= "180"/>
+		<pfc:class class= "304" qr= "305" orientation= "180"/>
+		<pfc:class class= "305" qr= "305" orientation= "180"/>
+		<pfc:class class= "306" qr= "304" orientation= "180"/>
+		<pfc:class class= "307-A" qr= "303" orientation= "180"/>
+		<pfc:class class= "307-B" qr= "303" orientation= "180"/>
+		<pfc:class class= "308" qr= "302" orientation= "180"/>
+		<pfc:class class= "309" qr= "302" orientation= "270"/>
+		<pfc:class class= "311" qr= "303" orientation= "0"/>
+		<pfc:class class= "312" qr= "303" orientation= "0"/>
+		<pfc:class class= "313" qr= "307" orientation= "0"/>
+		<pfc:class class= "314" qr= "309" orientation= "270"/>
+		<pfc:class class= "315" qr= "310" orientation= "270"/>
+		<pfc:class class= "316" qr= "310" orientation= "90"/>
+		<pfc:class class= "317" qr= "309" orientation= "90"/>
+		<pfc:class class= "318" qr= "309" orientation= "90"/>
+		<pfc:class class= "Ingenio" qr= "302" orientation= "0"/>
+		<pfc:class class= "Decanato" qr= "302" orientation= "0"/>
+		
+	</pfc:class3>
+</pfc:info>

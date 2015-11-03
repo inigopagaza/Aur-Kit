@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="floor_to_class">
+        <item>@array/floor_0</item>
+        <item>@array/floor_1</item>
+        <item>@array/floor_2</item>
+        <item>@array/floor_3</item>
+        <item>@array/floor_4</item>
+        <item>@array/floor_5</item>
+    </array>
+    
+</resources>

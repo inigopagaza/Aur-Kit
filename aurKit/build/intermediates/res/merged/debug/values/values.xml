@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/array_floor.xml -->
+    <eat-comment/>
+    <string-array name="array_floor">
+        <item>Piso 0</item>
+        <item>1º Piso</item>
+        <item>2º Piso</item>
+        <item>3º Piso</item>
+        <!--  
+        <item>4º Piso</item>
+        <item>5º Piso</item>
+        -->
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_0.xml -->
+    <eat-comment/>
+    <string-array name="floor_0">
+        <item>001</item>
+        <item>002</item>
+        <item>003</item>
+        <item>004</item>
+        <item>005</item>
+        <item>006</item>
+        <item>007</item>
+        <item>008</item>
+        <item>009</item>
+        <item>010</item>
+        <item>011</item>
+        <item>012</item>
+        <item>013</item>
+        <item>014</item>
+        <item>019</item>
+        <item>020</item>
+        <item>021</item>
+        <item>024</item>
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_1.xml -->
+    <eat-comment/>
+    <string-array name="floor_1">
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>Cafeteria</item>
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_2.xml -->
+    <eat-comment/>
+    <string-array name="floor_2">
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+        <item>216</item>
+        <item>217</item>
+        <item>218</item>
+        <item>219</item>
+        <item>Laboratorio Mobility</item>
+        <item>e-Life</item>
+        <item>Sala de Actos</item>
+        <item>Bedeles</item>
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_3.xml -->
+    <eat-comment/>
+    <string-array name="floor_3">
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307-A</item>
+        <item>307-B</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>317</item>
+        <item>318</item>
+        <item>Ingenio</item>
+        <item>Decanato</item>
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_4.xml -->
+    <eat-comment/>
+    <string-array name="floor_4">
+       
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_5.xml -->
+    <eat-comment/>
+    <string-array name="floor_5">
+    </string-array>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/floor_to_class.xml -->
+    <eat-comment/>
+    <array name="floor_to_class">
+        <item>@array/floor_0</item>
+        <item>@array/floor_1</item>
+        <item>@array/floor_2</item>
+        <item>@array/floor_3</item>
+        <item>@array/floor_4</item>
+        <item>@array/floor_5</item>
+    </array>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Aur-Kit</string>
+    <string name="button_back">Atrás</string>
+    <string name="button_go">¡IR!</string>
+    <string name="button_map">Mapa</string>
+    <string name="class_select_prompt">Selecciona la clase: </string>
+    <string name="dir">Dirección a seguir</string>
+    <string name="elev">¿Quieres usar el ascensor?</string>
+    <string name="floor_select_prompt">Selecciona el piso: </string>
+    <string name="map">Mapa</string>
+    <string name="no_map">Todavía no has escaneado ningún código QR</string>
+    <string name="no_qr">No estas enfocando a ningun código QR</string>
+    <!-- From: file:/C:/Users/pagaz_000/StudioProjects/Aur-Kit/aurKit/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

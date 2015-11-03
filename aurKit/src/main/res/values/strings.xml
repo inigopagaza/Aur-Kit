@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aur-Kit</string>
+    <string name="action_settings">Settings</string>
+    <string name="floor_select_prompt">Selecciona el piso: </string>
+    <string name="class_select_prompt">Selecciona la clase: </string>
+    <string name="map">Mapa</string>
+    <string name="dir">Dirección a seguir</string>
+    <string name="button_go">¡IR!</string>
+    <string name="button_map">Mapa</string>
+    <string name="button_back">Atrás</string>
+    <string name="elev">¿Quieres usar el ascensor?</string>
+    <string name="no_map">Todavía no has escaneado ningún código QR</string>
+    <string name="no_qr">No estas enfocando a ningun código QR</string>
+
+</resources>
