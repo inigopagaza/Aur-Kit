@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.aur_kit"
-        minSdkVersion 15
+        minSdkVersion 19
         targetSdkVersion 23
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-    compile project(':openCVLibrary249')
     compile files('libs/appcompat_v7.jar')
     compile files('libs/core-2.3.0.jar')
+    compile project(':openCVLibrary300')
 }

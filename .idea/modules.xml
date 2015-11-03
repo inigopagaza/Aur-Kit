@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aur-Kit.iml" filepath="$PROJECT_DIR$/Aur-Kit.iml" />
       <module fileurl="file://$PROJECT_DIR$/aurKit/aurKit.iml" filepath="$PROJECT_DIR$/aurKit/aurKit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" filepath="$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary300/openCVLibrary300.iml" filepath="$PROJECT_DIR$/openCVLibrary300/openCVLibrary300.iml" />
     </modules>
   </component>
 </project>

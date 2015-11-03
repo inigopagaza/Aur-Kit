@@ -15,7 +15,7 @@ ADDED from C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\src\main\AndroidMani
 		INJECTED from C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\src\main\AndroidManifest.xml
 uses-sdk
 ADDED from C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [Aur-Kit:openCVLibrary249:unspecified] C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\exploded-aar\Aur-Kit\openCVLibrary249\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [Aur-Kit:openCVLibrary300:unspecified] C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\build\intermediates\exploded-aar\Aur-Kit\openCVLibrary300\unspecified\AndroidManifest.xml:7:5-9:40
 	android:targetSdkVersion
 		ADDED from C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\src\main\AndroidManifest.xml:9:9-39
 		INJECTED from C:\Users\pagaz_000\StudioProjects\Aur-Kit\aurKit\src\main\AndroidManifest.xml
